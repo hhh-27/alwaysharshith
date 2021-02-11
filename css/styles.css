@@ -156,5 +156,7 @@ a:hover {
     .mountain{
         max-width: 100%;
     }
+    .bottom-cloud{
+    bottom: 340px;
+    }
 }
-
