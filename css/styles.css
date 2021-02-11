@@ -153,7 +153,8 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-    body, .top-container, .bottom-container{
-        aspect-ratio: 100%;
+    .mountain{
+        max-width: 100%;
     }
 }
+
