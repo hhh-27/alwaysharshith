@@ -157,6 +157,6 @@ a:hover {
         max-width: 100%;
     }
     .bottom-cloud{
-    bottom: 340px;
+        top: 320px;
     }
 }
